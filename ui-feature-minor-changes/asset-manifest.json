@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/re-data/ui-feature-minor-changes/static/css/main.38491723.chunk.css",
+    "main.js": "/re-data/ui-feature-minor-changes/static/js/main.045d291d.chunk.js",
+    "main.js.map": "/re-data/ui-feature-minor-changes/static/js/main.045d291d.chunk.js.map",
+    "runtime-main.js": "/re-data/ui-feature-minor-changes/static/js/runtime-main.9d0a3c25.js",
+    "runtime-main.js.map": "/re-data/ui-feature-minor-changes/static/js/runtime-main.9d0a3c25.js.map",
+    "static/css/2.9af11fe0.chunk.css": "/re-data/ui-feature-minor-changes/static/css/2.9af11fe0.chunk.css",
+    "static/js/2.48bffa81.chunk.js": "/re-data/ui-feature-minor-changes/static/js/2.48bffa81.chunk.js",
+    "static/js/2.48bffa81.chunk.js.map": "/re-data/ui-feature-minor-changes/static/js/2.48bffa81.chunk.js.map",
+    "static/js/3.93601625.chunk.js": "/re-data/ui-feature-minor-changes/static/js/3.93601625.chunk.js",
+    "static/js/3.93601625.chunk.js.map": "/re-data/ui-feature-minor-changes/static/js/3.93601625.chunk.js.map",
+    "index.html": "/re-data/ui-feature-minor-changes/index.html",
+    "static/css/2.9af11fe0.chunk.css.map": "/re-data/ui-feature-minor-changes/static/css/2.9af11fe0.chunk.css.map",
+    "static/css/main.38491723.chunk.css.map": "/re-data/ui-feature-minor-changes/static/css/main.38491723.chunk.css.map",
+    "static/js/2.48bffa81.chunk.js.LICENSE.txt": "/re-data/ui-feature-minor-changes/static/js/2.48bffa81.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d0a3c25.js",
+    "static/css/2.9af11fe0.chunk.css",
+    "static/js/2.48bffa81.chunk.js",
+    "static/css/main.38491723.chunk.css",
+    "static/js/main.045d291d.chunk.js"
+  ]
+}
