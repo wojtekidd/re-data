@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "https://re-data.github.io/re-data/ui-feature-react-app/static/css/main.d7a73fe6.chunk.css",
-    "main.js": "https://re-data.github.io/re-data/ui-feature-react-app/static/js/main.9983b8ac.chunk.js",
-    "main.js.map": "https://re-data.github.io/re-data/ui-feature-react-app/static/js/main.9983b8ac.chunk.js.map",
-    "runtime-main.js": "https://re-data.github.io/re-data/ui-feature-react-app/static/js/runtime-main.d96a0341.js",
-    "runtime-main.js.map": "https://re-data.github.io/re-data/ui-feature-react-app/static/js/runtime-main.d96a0341.js.map",
+    "main.js": "https://re-data.github.io/re-data/ui-feature-react-app/static/js/main.19b8a230.chunk.js",
+    "main.js.map": "https://re-data.github.io/re-data/ui-feature-react-app/static/js/main.19b8a230.chunk.js.map",
+    "runtime-main.js": "https://re-data.github.io/re-data/ui-feature-react-app/static/js/runtime-main.5e51e6f9.js",
+    "runtime-main.js.map": "https://re-data.github.io/re-data/ui-feature-react-app/static/js/runtime-main.5e51e6f9.js.map",
     "static/css/2.9af11fe0.chunk.css": "https://re-data.github.io/re-data/ui-feature-react-app/static/css/2.9af11fe0.chunk.css",
-    "static/js/2.3deeaef6.chunk.js": "https://re-data.github.io/re-data/ui-feature-react-app/static/js/2.3deeaef6.chunk.js",
-    "static/js/2.3deeaef6.chunk.js.map": "https://re-data.github.io/re-data/ui-feature-react-app/static/js/2.3deeaef6.chunk.js.map",
-    "static/js/3.8041e8fb.chunk.js": "https://re-data.github.io/re-data/ui-feature-react-app/static/js/3.8041e8fb.chunk.js",
-    "static/js/3.8041e8fb.chunk.js.map": "https://re-data.github.io/re-data/ui-feature-react-app/static/js/3.8041e8fb.chunk.js.map",
+    "static/js/2.8f0dbd82.chunk.js": "https://re-data.github.io/re-data/ui-feature-react-app/static/js/2.8f0dbd82.chunk.js",
+    "static/js/2.8f0dbd82.chunk.js.map": "https://re-data.github.io/re-data/ui-feature-react-app/static/js/2.8f0dbd82.chunk.js.map",
+    "static/js/3.2c83081c.chunk.js": "https://re-data.github.io/re-data/ui-feature-react-app/static/js/3.2c83081c.chunk.js",
+    "static/js/3.2c83081c.chunk.js.map": "https://re-data.github.io/re-data/ui-feature-react-app/static/js/3.2c83081c.chunk.js.map",
     "index.html": "https://re-data.github.io/re-data/ui-feature-react-app/index.html",
     "static/css/2.9af11fe0.chunk.css.map": "https://re-data.github.io/re-data/ui-feature-react-app/static/css/2.9af11fe0.chunk.css.map",
     "static/css/main.d7a73fe6.chunk.css.map": "https://re-data.github.io/re-data/ui-feature-react-app/static/css/main.d7a73fe6.chunk.css.map",
-    "static/js/2.3deeaef6.chunk.js.LICENSE.txt": "https://re-data.github.io/re-data/ui-feature-react-app/static/js/2.3deeaef6.chunk.js.LICENSE.txt"
+    "static/js/2.8f0dbd82.chunk.js.LICENSE.txt": "https://re-data.github.io/re-data/ui-feature-react-app/static/js/2.8f0dbd82.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d96a0341.js",
+    "static/js/runtime-main.5e51e6f9.js",
     "static/css/2.9af11fe0.chunk.css",
-    "static/js/2.3deeaef6.chunk.js",
+    "static/js/2.8f0dbd82.chunk.js",
     "static/css/main.d7a73fe6.chunk.css",
-    "static/js/main.9983b8ac.chunk.js"
+    "static/js/main.19b8a230.chunk.js"
   ]
 }
