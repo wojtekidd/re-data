@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://re-data.github.io/re-data/ui-feature-improve-toy-shop/static/css/main.d7a73fe6.chunk.css",
-    "main.js": "https://re-data.github.io/re-data/ui-feature-improve-toy-shop/static/js/main.ba019b1e.chunk.js",
-    "main.js.map": "https://re-data.github.io/re-data/ui-feature-improve-toy-shop/static/js/main.ba019b1e.chunk.js.map",
+    "main.js": "https://re-data.github.io/re-data/ui-feature-improve-toy-shop/static/js/main.a308db28.chunk.js",
+    "main.js.map": "https://re-data.github.io/re-data/ui-feature-improve-toy-shop/static/js/main.a308db28.chunk.js.map",
     "runtime-main.js": "https://re-data.github.io/re-data/ui-feature-improve-toy-shop/static/js/runtime-main.5097c2c9.js",
     "runtime-main.js.map": "https://re-data.github.io/re-data/ui-feature-improve-toy-shop/static/js/runtime-main.5097c2c9.js.map",
     "static/css/2.9af11fe0.chunk.css": "https://re-data.github.io/re-data/ui-feature-improve-toy-shop/static/css/2.9af11fe0.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.9af11fe0.chunk.css",
     "static/js/2.48bffa81.chunk.js",
     "static/css/main.d7a73fe6.chunk.css",
-    "static/js/main.ba019b1e.chunk.js"
+    "static/js/main.a308db28.chunk.js"
   ]
 }
