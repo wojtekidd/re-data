@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "https://re-data.github.io/re-data/ui-feature-adjust-docs/static/css/main.9f508352.chunk.css",
-    "main.js": "https://re-data.github.io/re-data/ui-feature-adjust-docs/static/js/main.4c031b7e.chunk.js",
-    "main.js.map": "https://re-data.github.io/re-data/ui-feature-adjust-docs/static/js/main.4c031b7e.chunk.js.map",
-    "runtime-main.js": "https://re-data.github.io/re-data/ui-feature-adjust-docs/static/js/runtime-main.9323b0e5.js",
-    "runtime-main.js.map": "https://re-data.github.io/re-data/ui-feature-adjust-docs/static/js/runtime-main.9323b0e5.js.map",
+    "main.css": "https://re-data.github.io/re-data/ui-feature-adjust-docs/static/css/main.403dcb6e.chunk.css",
+    "main.js": "https://re-data.github.io/re-data/ui-feature-adjust-docs/static/js/main.ba6231e9.chunk.js",
+    "main.js.map": "https://re-data.github.io/re-data/ui-feature-adjust-docs/static/js/main.ba6231e9.chunk.js.map",
+    "runtime-main.js": "https://re-data.github.io/re-data/ui-feature-adjust-docs/static/js/runtime-main.3cb8189e.js",
+    "runtime-main.js.map": "https://re-data.github.io/re-data/ui-feature-adjust-docs/static/js/runtime-main.3cb8189e.js.map",
     "static/css/2.9af11fe0.chunk.css": "https://re-data.github.io/re-data/ui-feature-adjust-docs/static/css/2.9af11fe0.chunk.css",
-    "static/js/2.d9eaa328.chunk.js": "https://re-data.github.io/re-data/ui-feature-adjust-docs/static/js/2.d9eaa328.chunk.js",
-    "static/js/2.d9eaa328.chunk.js.map": "https://re-data.github.io/re-data/ui-feature-adjust-docs/static/js/2.d9eaa328.chunk.js.map",
-    "static/js/3.ff27741a.chunk.js": "https://re-data.github.io/re-data/ui-feature-adjust-docs/static/js/3.ff27741a.chunk.js",
-    "static/js/3.ff27741a.chunk.js.map": "https://re-data.github.io/re-data/ui-feature-adjust-docs/static/js/3.ff27741a.chunk.js.map",
+    "static/js/2.bb391a80.chunk.js": "https://re-data.github.io/re-data/ui-feature-adjust-docs/static/js/2.bb391a80.chunk.js",
+    "static/js/2.bb391a80.chunk.js.map": "https://re-data.github.io/re-data/ui-feature-adjust-docs/static/js/2.bb391a80.chunk.js.map",
+    "static/js/3.0fd0326c.chunk.js": "https://re-data.github.io/re-data/ui-feature-adjust-docs/static/js/3.0fd0326c.chunk.js",
+    "static/js/3.0fd0326c.chunk.js.map": "https://re-data.github.io/re-data/ui-feature-adjust-docs/static/js/3.0fd0326c.chunk.js.map",
     "index.html": "https://re-data.github.io/re-data/ui-feature-adjust-docs/index.html",
     "static/css/2.9af11fe0.chunk.css.map": "https://re-data.github.io/re-data/ui-feature-adjust-docs/static/css/2.9af11fe0.chunk.css.map",
-    "static/css/main.9f508352.chunk.css.map": "https://re-data.github.io/re-data/ui-feature-adjust-docs/static/css/main.9f508352.chunk.css.map",
-    "static/js/2.d9eaa328.chunk.js.LICENSE.txt": "https://re-data.github.io/re-data/ui-feature-adjust-docs/static/js/2.d9eaa328.chunk.js.LICENSE.txt"
+    "static/css/main.403dcb6e.chunk.css.map": "https://re-data.github.io/re-data/ui-feature-adjust-docs/static/css/main.403dcb6e.chunk.css.map",
+    "static/js/2.bb391a80.chunk.js.LICENSE.txt": "https://re-data.github.io/re-data/ui-feature-adjust-docs/static/js/2.bb391a80.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9323b0e5.js",
+    "static/js/runtime-main.3cb8189e.js",
     "static/css/2.9af11fe0.chunk.css",
-    "static/js/2.d9eaa328.chunk.js",
-    "static/css/main.9f508352.chunk.css",
-    "static/js/main.4c031b7e.chunk.js"
+    "static/js/2.bb391a80.chunk.js",
+    "static/css/main.403dcb6e.chunk.css",
+    "static/js/main.ba6231e9.chunk.js"
   ]
 }
